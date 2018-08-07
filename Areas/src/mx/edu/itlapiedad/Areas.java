@@ -4,7 +4,7 @@ public class Areas {
 
 	public static void main(String[] args) {
 		Triangulo t = new Triangulo(10, 20);
-		System.out.println(t.getArea());
+		System.out.println("El area del triangulo es: " + t.getArea());
 	}
 
 }
